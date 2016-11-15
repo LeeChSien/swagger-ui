@@ -1,0 +1,16 @@
+.DS_STORE
+*.ipr
+*.iml
+*.iws
+*.flags.json
+npm-debug.log
+lib/*.zip
+version.properties
+.sass-cache
+swagger-ui.sublime-workspace
+.idea
+.project
+/nbproject/private/
+dist/specs/
+test/specs/local/
+node_modules/.bin/
